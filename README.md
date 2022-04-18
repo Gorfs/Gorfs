@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Gorfs
 - 👀 I’m interested in python coding and cool codes to do random shit
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on my edmc plugin for elite dangerous
+- 🌱 I’m currently just vibing..
+- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gorfs)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 Gorfs/Gorfs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
