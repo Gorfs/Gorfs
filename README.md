@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gorfs&label=Profile%20views&color=0e75b6&style=flat" alt="gorfs" /> </p>
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **Fullstack**
 
-- 👨‍💻 All of my projects are available [here](https://gorfs.github.io/portfolio/)
+- 👨‍💻 All of my projects are available on my [portfolio](https://gorfs.github.io/portfolio/)
 
-- 📫 How to reach me **archiebeales@gmail.com**
+- 📫 How to reach me **archie.beales@etu.u-paris.fr**
 
-- ⚡ Fun fact **My favorite animals are red panda**
+- ⚡ Fun fact **My favorite animals are red pandas**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
