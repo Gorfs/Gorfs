@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 👨‍💻 All of my projects are available [gorfs.github.io/portfolio](Here)
+- 👨‍💻 All of my projects are available [here](gorfs.github.io/portfolio)
 
 - 📫 How to reach me **archiebeales@gmail.com**
 
