@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Archie Beales</h1>
-<h3 align="center">A student learning computer science.</h3>
+<h3 align="center">A student at Universite de Paris cite learning computer science.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gorfs&label=Profile%20views&color=0e75b6&style=flat" alt="gorfs" /> </p>
 
