@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **archie.beales@etu.u-paris.fr**
 
-- ⚡ Fun fact **My favorite animals are red pandas**
+- ⚡ Fun fact **I use Arch BTW xd**
 
 ![codewars banner](https://www.codewars.com/users/gorfgorf23/badges/large)
 
