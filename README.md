@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **archie.beales@etu.u-paris.fr**
 
-- ⚡ Fun fact **I use Arch BTW xd**
-
 ![codewars banner](https://www.codewars.com/users/gorfgorf23/badges/large)
 
 <h3 align="left">Connect with me:</h3>
