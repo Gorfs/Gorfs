@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available on my [portfolio](https://gorfs.github.io/portfolio/)
 
-- 📫 How to reach me **archie.beales@etu.u-paris.fr**
+- 📫 How to reach me **archiebeales@gmail.com**
 
 ![codewars banner](https://www.codewars.com/users/gorfgorf23/badges/large)
 
